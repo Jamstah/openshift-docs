@@ -4,7 +4,7 @@
 
 :_mod-docs-content-type: PROCEDURE
 [id="access-default-service-serving-configmap_{context}"]
-= Access the service CA bundle in the default configmap
+= Access the service CA bundle in the default config map
 
 A pod can access the service CA certificate by mounting the default
 `ConfigMap` object that exists in every project. The service CA
